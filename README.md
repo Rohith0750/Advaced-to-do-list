@@ -35,11 +35,15 @@
 ---
 
 ## 📂 Project Structure
-📁 Advaced-to-do-list/
-├─ 📄 index.html # Main HTML file
-├─ 📄 style.css # CSS file for styling
-├─ 📄 script.js # JavaScript file containing the app logic
-├─ 📄 README.md # Project documentation
+
+```bash
+Advaced-to-do-list/
+├─ index.html     # Main HTML file
+├─ style.css      # CSS file for styling
+├─ script.js      # JavaScript file containing the app logic
+├─ README.md      # Project documentation
+```
+
 
 
 
